@@ -1,0 +1,9 @@
+[package]
+name = "httpmux"
+version = "0.1.0"
+authors = ["Uncho <sergeychang@gmail.com>"]
+edition = "2018"
+description = "http router for rust."
+license = "MIT"
+
+[dependencies]
